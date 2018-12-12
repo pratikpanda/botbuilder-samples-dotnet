@@ -27,6 +27,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enterprise.Bot.Common", "co
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enterprise.Bot.Configuration", "common\Enterprise.Bot.Configuration\Enterprise.Bot.Configuration.csproj", "{74B3D0D9-6DEE-4BBC-B4FF-4DD4DCE31A38}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{AA2A5517-7116-4956-9B07-BB8143BCF278}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Integration", "Integration", "{E0AA83F4-7128-4B62-A847-485C5C769BA4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -73,6 +77,7 @@ Global
 		{3EC99D9A-C27C-4CF3-BEF4-9739A6B16C70} = {965F841A-EDC0-4215-881C-C984AE4BB977}
 		{613A6AE5-FB68-4DD6-83B2-16010AEBF29A} = {CFF7BC6C-F34D-4C91-A369-11B869AD8298}
 		{74B3D0D9-6DEE-4BBC-B4FF-4DD4DCE31A38} = {CFF7BC6C-F34D-4C91-A369-11B869AD8298}
+		{E0AA83F4-7128-4B62-A847-485C5C769BA4} = {AA2A5517-7116-4956-9B07-BB8143BCF278}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3F1170FC-89B7-4F56-AEF5-F19EEAEEF7A1}
