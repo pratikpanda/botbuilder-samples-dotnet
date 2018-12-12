@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\common\Enterprise.Bot.Configuration\Enterprise.Bot.Configuration.csproj" />
+    <ProjectReference Include="..\..\core\Enterprise.Bot.Application\Enterprise.Bot.Application.csproj" />
+  </ItemGroup>
+
+</Project>
